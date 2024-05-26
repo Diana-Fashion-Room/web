@@ -1,0 +1,24 @@
+body{
+background-image: url('in.jpg');
+background-size: 95em;
+
+}
+
+h1{
+font-size: 30px;
+color: blue;
+text-shadow: black 10px 10px 10px;
+}
+.bolded{
+font-weight: bold;
+}
+
+
+.negocio {
+width: 450px;
+height: 450px;
+border: 10px solid #9f5f9f;
+border-radius: 50%;
+margin: 3px;
+padding: 10px;
+}
