@@ -1,0 +1,20 @@
+body{
+background-image: url('8.jpeg');
+background-size: 95em;}
+
+h1{
+font-size: 40px;
+font-family: Lucida Handwriting;
+color: black;
+text-shadow: blue 10px 10px 10px;
+}
+
+
+.entrada {
+width: 380px;
+height: 380px;
+border: 10px solid #9f5f9f;
+border-radius: 50px;
+margin: 3px;
+padding: 10px;
+}

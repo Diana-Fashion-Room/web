@@ -1,0 +1,17 @@
+body{
+background-image: url('5.jpeg');
+background-size: 95em;
+}
+
+h1{
+font-size: 30px;
+color: black;
+text-shadow: purple 10px 10px 10px;
+}
+
+p{
+font-size: 30px;
+color: black;
+font-family: FORTE; 
+text-align: center;
+}

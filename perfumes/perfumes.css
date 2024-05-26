@@ -1,0 +1,22 @@
+body{
+background-image: url('per5.jpg');
+background-size: 90em;
+
+}
+
+
+.negocio {
+width: 450px;
+height: 450px;
+border: 10px solid #9400d3;
+border-radius: 50px;
+margin: 3px;
+padding: 10px;
+}
+
+p{
+font-size: 30px;
+color: black;
+font-family: Cooper Black; 
+text-align: center;
+}

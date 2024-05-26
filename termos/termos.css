@@ -1,0 +1,23 @@
+body{
+background-image: url('ter.jpg');
+background-size: 95em;
+
+}
+
+
+.negocio {
+width: 350px;
+height: 350px;
+border: 10px solid yellow;
+border-radius: 50px;
+margin: 3px;
+padding: 10px;
+}
+
+
+p{
+font-size: 30px;
+color: black;
+font-family: Cooper Black; 
+text-align: center;
+}
