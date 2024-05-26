@@ -1,0 +1,22 @@
+body{
+background-image: url('4.jpeg');
+background-size: 95em;
+
+}
+
+
+.negocio {
+width: 450px;
+height: 450px;
+border: 10px solid blue;
+border-radius: 50px;
+margin: 6px;
+padding: 8px;
+}
+
+p{
+font-size: 30px;
+color: black;
+font-family: Cooper Black; 
+text-align: center;
+}
