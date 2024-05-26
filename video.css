@@ -1,0 +1,27 @@
+body{
+background-image: url('vi.jpg');
+background-size: 98em;
+
+}
+
+h1{
+font-size: 40px;
+font-family: Lucida Handwriting;
+color: black;
+text-shadow: blue 10px 10px 10px;
+}
+
+.video-container {
+text-align: center;
+margin-top: 20px;
+}
+
+.video-container video{
+max-width: 100%;
+width: 400px;
+heigth: auto;
+border: 5px solid #333;
+padding: 10px;
+box-shadow: 0 4px 8px rgba(0, 0, 0.2);
+background-color:#fff;
+}
